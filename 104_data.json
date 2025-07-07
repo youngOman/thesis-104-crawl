@@ -1,0 +1,197 @@
+{
+  "chinaCorp": false,
+  "closeDate": "",
+  "condition": {
+    "acceptRole": {
+      "disRole": {
+        "disability": [],
+        "needHandicapCompendium": false
+      },
+      "role": [
+        {
+          "code": 64,
+          "description": "原住民"
+        },
+        {
+          "code": 2048,
+          "description": "二度就業"
+        }
+      ]
+    },
+    "certificate": [],
+    "driverLicense": [],
+    "edu": "專科、大學、碩士",
+    "language": [],
+    "localLanguage": [],
+    "major": [],
+    "other": "",
+    "skill": [
+      {
+        "code": "11009005001",
+        "description": "軟體程式設計"
+      }
+    ],
+    "specialty": [
+      {
+        "code": "12001001007",
+        "description": "Linux"
+      },
+      {
+        "code": "12001003041",
+        "description": "PHP"
+      },
+      {
+        "code": "12001004032",
+        "description": "MySQL"
+      }
+    ],
+    "workExp": "3年以上"
+  },
+  "contact": {
+    "email": "",
+    "hrName": "HR",
+    "other": "",
+    "phone": [],
+    "reply": "合適者將於7個工作天內主動聯繫，不合適者將不另行通知",
+    "suggestExam": false,
+    "visit": ""
+  },
+  "corpImageRight": {
+    "corpImageRight": {
+      "imageUrl": "",
+      "link": ""
+    }
+  },
+  "custLogo": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/logo.jpg?v=20200701132212",
+  "custNo": "130000000133937",
+  "employees": "90人",
+  "environmentPic": {
+    "corpImageBottom": {
+      "imageUrl": "",
+      "link": ""
+    },
+    "environmentPic": [
+      {
+        "description": "",
+        "link": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/l_890328564446037963.jpg?v=20200701132212",
+        "thumbnailLink": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/s_890328564446037963.jpg?v=20200701132212"
+      },
+      {
+        "description": "",
+        "link": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/l_964113488088065520.jpg?v=20200701132212",
+        "thumbnailLink": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/s_964113488088065520.jpg?v=20200701132212"
+      },
+      {
+        "description": "",
+        "link": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/l_964113488088065521.jpg?v=20200701132212",
+        "thumbnailLink": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/s_964113488088065521.jpg?v=20200701132212"
+      },
+      {
+        "description": "",
+        "link": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/l_890328564446037964.jpg?v=20200701132212",
+        "thumbnailLink": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/s_890328564446037964.jpg?v=20200701132212"
+      },
+      {
+        "description": "",
+        "link": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/l_964113488088065522.jpg?v=20200701132212",
+        "thumbnailLink": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/s_964113488088065522.jpg?v=20200701132212"
+      },
+      {
+        "description": "Game Jam 遊戲開發駭客松",
+        "link": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/l_964113488088065523.jpg?v=20200701132212",
+        "thumbnailLink": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/s_964113488088065523.jpg?v=20200701132212"
+      },
+      {
+        "description": "聖誕節活動",
+        "link": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/l_964113488088065524.jpg?v=20200701132212",
+        "thumbnailLink": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/s_964113488088065524.jpg?v=20200701132212"
+      },
+      {
+        "description": "聖誕節活動",
+        "link": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/l_890328564446037965.jpg?v=20200701132212",
+        "thumbnailLink": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/s_890328564446037965.jpg?v=20200701132212"
+      },
+      {
+        "description": "一番賞抽獎活動",
+        "link": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/l_964113488088065525.jpg?v=20200701132212",
+        "thumbnailLink": "https://static.104.com.tw/b_profile/cust_picture/3937/130000000133937/env/s_964113488088065525.jpg?v=20200701132212"
+      }
+    ]
+  },
+  "header": {
+    "analysisType": 1,
+    "analysisUrl": "//www.104.com.tw/jobs/apply/analysis/6lo87",
+    "appearDate": "2023/12/14",
+    "applyDate": "",
+    "corpImageTop": {
+      "imageUrl": "",
+      "link": ""
+    },
+    "custName": "馬紹爾群島商彩虹科技股份有限公司",
+    "custUrl": "https://www.104.com.tw/company/1a2x6bkunl",
+    "isApplied": false,
+    "isSaved": false,
+    "jobName": "資深PHP工程師"
+  },
+  "industry": "網際網路相關業",
+  "industryNo": "1001001003",
+  "jobDetail": {
+    "addressArea": "台北市",
+    "addressDetail": "敦化南路二段319號(國泰安和商業大樓)",
+    "addressNo": "6001001005",
+    "addressRegion": "台北市大安區",
+    "businessTrip": "無需出差外派",
+    "delegatedRecruit": "",
+    "hireType": 0,
+    "industryArea": "",
+    "jobCategory": [
+      {
+        "code": "2007001008",
+        "description": "電玩程式設計師"
+      },
+      {
+        "code": "2007001004",
+        "description": "軟體工程師"
+      },
+      {
+        "code": "2007001003",
+        "description": "通訊軟體工程師"
+      }
+    ],
+    "jobDescription": "職務內容：\n1、負責公司自研產品功能開發及運營後台開發；\n2、根據項目需求完成代碼編寫、優化、調試、部署上線；\n3、針對業務特點設計高並發業務系統、存儲系統。\n\n需求條件：\n1、主修資訊工程相關專業科系尤佳，PHP開發經驗3年以上；\n2、涉獵廣，對full stack developer有一定追求，熟悉web前端技術更佳；\n3、熟悉Linux、PHP、MySQL；\n4、具備良好的代碼編寫習慣及代碼設計能力；\n5、熟悉各種WEB緩存技術,熟悉大型網站構架設計和性能優化；\n6、了解常用數據結構和演算法；\n7、具有較強的團隊合作精神，良好的溝通能力。",
+    "jobType": 1,
+    "landmark": "距捷運六張犁站約390公尺",
+    "latitude": "25.0229574",
+    "longitude": "121.5494438",
+    "manageResp": "不需負擔管理責任",
+    "needEmp": "3人",
+    "remoteWork": null,
+    "salary": "月薪80,000~120,000元",
+    "salaryMax": 120000,
+    "salaryMin": 80000,
+    "salaryType": 50,
+    "startWorkingDay": "一個月內",
+    "vacationPolicy": "週休二日",
+    "workPeriod": "日班",
+    "workType": []
+  },
+  "postalCode": "106",
+  "reportUrl": "https://www.104.com.tw/feedback?category=2&custName=%E9%A6%AC%E7%B4%B9%E7%88%BE%E7%BE%A4%E5%B3%B6%E5%95%86%E5%BD%A9%E8%99%B9%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&jobName=%E8%B3%87%E6%B7%B1PHP%E5%B7%A5%E7%A8%8B%E5%B8%AB",
+  "switch": "on",
+  "welfare": {
+    "legalTag": [],
+    "tag": [
+      "年終獎金",
+      "零食櫃",
+      "生活工作諮詢",
+      "不扣薪病假",
+      "結婚禮金",
+      "生育津貼",
+      "國內旅遊",
+      "國外旅遊",
+      "部門聚餐",
+      "內部講師鐘點費"
+    ],
+    "welfare": "// 優於法規的上班時間// \n週休二日，9:30上班， 上班有10分鐘交通緩衝時間; \n午休1.5小時(13:00-14:30)， 要你吃飽以及睡飽再上班!\n只要任務完成，18:30就可以打卡下班!!\n\n//法定的勞健保//\n到職購買，依照實際薪資級距投保。\n\n//豐富的薪資結構//\n基本工資+項目分紅+第十三薪+年終獎金，跟著專案賺錢一起享受分紅!\n\n//獨特的專項獎勵//\n根據員工不同貢獻，公司設立專項獎勵，如季度貢獻獎，優秀員工獎，伯樂獎。\n                     \n//優惠的休假福利//\n試用期通過者：7天\n到職滿1年者 : 10天\n滿2年未滿3年者 : 13天\n滿3年未滿5年者 : 16天\n滿5年未滿10年者 : 17天\n每月1天全薪病假。\n\n//各種社團活動//\n桌遊社、瑜伽社、球類社團，讓你工作之餘，也能盡情動起來，同時結交志同道合的朋友。\n\n//超狂的無限制調薪//\n一年四次機會可申請調薪，每季度一次；主動爭取加薪的機會由自己掌握!\n\n//溫馨的員工福祉//\n吃不完的辦公室零食、飲料、研磨咖啡機\n每年健康檢查、全勤獎金、節日禮品、週年獎勵、婚育禮金等，希望夥伴跟公司一同健康成長!\n\n//夢幻的團康福利//：\n每月Team Building+每年旅遊津貼!\n自由計畫安排不同的Team Building活動，活力團隊就是要Work Hard， Play Hard!\n\n// 卓越的培訓福利//\n公司資助培訓課程以及TED培訓分享活動!\n\n// 用心的其他福利//\n公司內部家庭日、Game Jam黑客松活動、圖書館 無償為你添購 所有你想看的書， 只要你想得到，我們就買得到!"
+  }
+}
