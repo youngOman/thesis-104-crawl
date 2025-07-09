@@ -4,6 +4,9 @@ This project performs comprehensive data scraping, preprocessing, and statistica
 
 ## Project Overview
 
+![job_list](./images/job_list.png)
+
+
 ### Research Objectives
 
 - Analyze the current state of Taiwan's software engineer job market
@@ -59,6 +62,11 @@ class Job104Spider():
 #### Data Fields
 
 Collects the following key information:
+
+![Job Data Fields](./images/job_detail.png)
+
+![Job Data Fields](./images/job_detail_column.png)
+
 
 - **Basic Info**: Job title, company name, update date
 - **Salary Info**: Max/min salary (unified conversion to monthly salary)
